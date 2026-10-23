@@ -1,7 +1,7 @@
-<div align="center">
-  <img src="./assets/dashboard.svg" width="100%" alt="clarity">
-</div>
+<p><img src="./assets/hero.webp" width="100%" alt="clarity — signal over noise"></p>
 
-<br>
+<p>
+  <img src="./assets/portrait.webp" width="49.5%" alt="portrait"> <img src="./assets/info.svg" width="49.5%" alt="clarity@github">
+</p>
 
-<img src="https://raw.githubusercontent.com/cla77ity/cla77ity/output/snake.svg" width="100%" alt="">
+<p><img src="./assets/waves.webp" width="100%" alt=""></p>
